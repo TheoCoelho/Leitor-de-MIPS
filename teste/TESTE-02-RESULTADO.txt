@@ -1,0 +1,4 @@
+add $t0, $s1, $s2
+add $t0, $s2, $s7
+sub $s3, $t2, $zero
+srl $s4, $s4, 12
